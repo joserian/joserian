@@ -9,11 +9,9 @@
   ---
 </div>
 
-
 ![frieren-anime](https://github.com/user-attachments/assets/fa393c30-7129-4c0a-b659-f345e670533f)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joserian&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=joserian&icon=0&color=5)](https://visitcount.itsvg.in)
 
 
 
